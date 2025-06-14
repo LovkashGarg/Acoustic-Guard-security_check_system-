@@ -10,6 +10,11 @@ A real‑time, AI‑powered security system that classifies ambient sounds (e.g.
 
 ---
 
+## Problem Statement
+
+![image](https://github.com/user-attachments/assets/46241711-d0ab-42a9-96d7-d29aa96dba3d)
+
+
 ## 🚀 Features
 
 - **Audio Feature Extraction**: Uses MFCC, Chroma, and Mel-spectrogram features.  
@@ -19,8 +24,14 @@ A real‑time, AI‑powered security system that classifies ambient sounds (e.g.
 - **Alert System**: Triggers visual & audio alerts on detecting critical sounds.
 
 ---
+![image](https://github.com/user-attachments/assets/6d5ca4a7-48cc-465d-ab0b-8f8f1ca024a7)
+![image](https://github.com/user-attachments/assets/d873597d-6bcc-4048-8fc6-9d12a2c58685)
+
 
 ## 🎬 Demo
+
+![image](https://github.com/user-attachments/assets/dea32805-11aa-405d-a293-21bd5bae27af)
+
 
 1. **Web Dashboard**:  
    <img src="images/ui_screenshot.png" alt="Dashboard screenshot" width="600px">
@@ -32,20 +43,8 @@ A real‑time, AI‑powered security system that classifies ambient sounds (e.g.
 
 ## 🏗️ Architecture
 
-```text
-┌─────────┐      ┌────────────┐       ┌──────────────┐
-│ Browser │◀────▶│ Flask API  │◀──────│  CNN Model   │
-│ (React) │      │ (app.py)   │       │ (TF Serving) │
-└─────────┘      └────────────┘       └──────────────┘
-     ▲                ▲                     ▲
-     │                │ extract features    │
-     │   microphone   │────────────────────▶│
-     │──────────────▶ │                     │
-````
+![image](https://github.com/user-attachments/assets/b6c03edb-ab7a-4f7b-8879-1fa86a9a9e7f)
 
-<img src="images/architecture_diagram.png" alt="System Architecture" width="80%">
-
----
 
 ## 📦 Project Structure
 
