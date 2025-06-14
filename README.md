@@ -34,8 +34,9 @@ By harnessing deep learning models trained on environmental and custom hazard so
 - **Alert System**: Triggers visual & audio alerts on detecting critical sounds.
 
 ---
-![image](https://github.com/user-attachments/assets/6d5ca4a7-48cc-465d-ab0b-8f8f1ca024a7)
 ![image](https://github.com/user-attachments/assets/d873597d-6bcc-4048-8fc6-9d12a2c58685)
+![image](https://github.com/user-attachments/assets/6d5ca4a7-48cc-465d-ab0b-8f8f1ca024a7)
+
 
 
 ## 🎬 Demo
@@ -161,7 +162,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 > Crafted with ❤️ by Lovkash Garg
 > ✉️ [Contact Me](mailto:lovkashgarg@gmail.com)
-
-```
-
 
