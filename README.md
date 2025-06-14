@@ -22,11 +22,6 @@ A real‑time, AI‑powered security system that classifies ambient sounds (e.g.
 
 ## 🎬 Demo
 
-<p float="left">
-  <img src="images/ui_screenshot.png" width="48%" alt="Web App UI">
-  <img src="images/waveform_plot.png" width="48%" alt="Real‑time Waveform">
-</p>
-
 1. **Web Dashboard**:  
    <img src="images/ui_screenshot.png" alt="Dashboard screenshot" width="600px">
 
