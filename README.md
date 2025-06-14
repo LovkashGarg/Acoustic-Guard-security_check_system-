@@ -12,6 +12,16 @@ A real‑time, AI‑powered security system that classifies ambient sounds (e.g.
 
 ## Problem Statement
 
+Every year, property owners and facility managers face significant security risks due to undetected break‑ins, vandalism, and emergencies. Traditional surveillance systems rely heavily on visual monitoring (CCTV), which can be compromised by poor lighting, obstructions, or tampering—and often require constant human supervision to spot critical events. Meanwhile, many critical incidents produce distinctive acoustic signatures (glass breaking, alarms, aggressive voices) long before or in places where video fails.
+
+**Acoustic‑Guard** aims to fill this gap by:
+
+* **Listening** continuously for threat‑related sounds in indoor and outdoor environments.
+* **Automatically classifying** ambient audio streams into harmless background noise versus potentially dangerous events.
+* **Triggering real‑time alerts** (visual dashboard notifications, alarms, push messages) whenever a critical sound is detected—without requiring a human to watch a video feed.
+
+By harnessing deep learning models trained on environmental and custom hazard sound datasets, Acoustic‑Guard offers an additional, low‑bandwidth security layer that operates effectively in low‑light or visually occluded scenarios—and frees security personnel to focus on verified threats rather than raw video playback.
+
 ![image](https://github.com/user-attachments/assets/46241711-d0ab-42a9-96d7-d29aa96dba3d)
 
 
