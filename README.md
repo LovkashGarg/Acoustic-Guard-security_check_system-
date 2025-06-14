@@ -1,12 +1,10 @@
-Here’s a comprehensive `README.md` for **Acoustic‑Guard**. Be sure to add your actual screenshots & diagrams into an `images/` folder at the root of your repo (or adjust paths), then commit them alongside this file.
+# Acoustic-Guard 📢🔒
 
-````markdown
-# Acoustic‑Guard 📢🔒
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
+[![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)  
-[![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)  
 
 A real‑time, AI‑powered security system that classifies ambient sounds (e.g. dog barks, alarms, glass breaks) to detect potential threats and alert users via a web interface.
 
@@ -158,15 +156,8 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ---
 
 > Crafted with ❤️ by Lovkash Garg
-> ✉️ [Contact Me](mailto:lovkash@example.com)
+> ✉️ [Contact Me](mailto:lovkashgarg@gmail.com)
 
 ```
 
-**Next steps:**  
-- Add real screenshots (named to match the `images/` folder references).  
-- Fill in any script names (e.g. `extract_features.py`, `train_model.py`) or update commands as needed.  
-
-Feel free to tweak sections to match your exact workflow!
-::contentReference[oaicite:0]{index=0}
-```
 
